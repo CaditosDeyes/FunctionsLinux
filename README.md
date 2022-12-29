@@ -1,2 +1,2 @@
 # FunctionsLinux
-This is functions to Linux
+These are some functions for Linux in C++
